@@ -54,7 +54,7 @@
 			// date
 			// 
 			this.date.AutoSize = true;
-			this.date.BackColor = System.Drawing.Color.Yellow;
+			this.date.BackColor = System.Drawing.Color.DodgerBlue;
 			this.date.Font = new System.Drawing.Font("Times New Roman", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.date.Location = new System.Drawing.Point(5, 46);
 			this.date.Name = "date";
